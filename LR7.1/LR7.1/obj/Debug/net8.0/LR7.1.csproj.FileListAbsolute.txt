@@ -1,0 +1,14 @@
+C:\Users\Григорий\source\repos\LR7.1\LR7.1\bin\Debug\net8.0\LR7.1.exe
+C:\Users\Григорий\source\repos\LR7.1\LR7.1\bin\Debug\net8.0\LR7.1.deps.json
+C:\Users\Григорий\source\repos\LR7.1\LR7.1\bin\Debug\net8.0\LR7.1.runtimeconfig.json
+C:\Users\Григорий\source\repos\LR7.1\LR7.1\bin\Debug\net8.0\LR7.1.dll
+C:\Users\Григорий\source\repos\LR7.1\LR7.1\bin\Debug\net8.0\LR7.1.pdb
+C:\Users\Григорий\source\repos\LR7.1\LR7.1\obj\Debug\net8.0\LR7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Григорий\source\repos\LR7.1\LR7.1\obj\Debug\net8.0\LR7.1.AssemblyInfoInputs.cache
+C:\Users\Григорий\source\repos\LR7.1\LR7.1\obj\Debug\net8.0\LR7.1.AssemblyInfo.cs
+C:\Users\Григорий\source\repos\LR7.1\LR7.1\obj\Debug\net8.0\LR7.1.csproj.CoreCompileInputs.cache
+C:\Users\Григорий\source\repos\LR7.1\LR7.1\obj\Debug\net8.0\LR7.1.dll
+C:\Users\Григорий\source\repos\LR7.1\LR7.1\obj\Debug\net8.0\refint\LR7.1.dll
+C:\Users\Григорий\source\repos\LR7.1\LR7.1\obj\Debug\net8.0\LR7.1.pdb
+C:\Users\Григорий\source\repos\LR7.1\LR7.1\obj\Debug\net8.0\LR7.1.genruntimeconfig.cache
+C:\Users\Григорий\source\repos\LR7.1\LR7.1\obj\Debug\net8.0\ref\LR7.1.dll
